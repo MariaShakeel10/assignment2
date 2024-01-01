@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+h1,
+h2 {
+    background-color: aqua;
+    text-align: center;
+}
+
+p {
+    color: beige;
+}
+
+ol {
+    color: beige;
+}
